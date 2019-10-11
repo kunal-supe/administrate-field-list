@@ -20,7 +20,7 @@ class Project < ApplicationRecord
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'administrate-field-list'
+gem 'administrate-field-list', :git => 'https://github.com/kunal-supe/administrate-field-list'
 ```
 
 And then execute:
